@@ -1,6 +1,6 @@
 # Hardhat-Events-Logs
 
-This project demonstrates how to work with events in hardhat. 
+This project demonstrates how to work with events in hardhat. In the `deploy_and_store` script, you'll see the output of the events. 
 
  ## Requirements
 
