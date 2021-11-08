@@ -54,6 +54,12 @@ Then, run:
 hh run scripts/deploy_and_store.js --network kovan
 ```
 
+## Testing
+
+```sh
+npx hardhat test
+```
+
 ## Etherscan verification
 
 Once you've deployed your code, to verify it run:
